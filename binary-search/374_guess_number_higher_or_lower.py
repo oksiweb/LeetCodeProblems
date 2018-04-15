@@ -19,4 +19,3 @@ def guessNumber(self, n):
             start = mid + 1
         elif r == -1:
             end = mid -1
-    return -1
